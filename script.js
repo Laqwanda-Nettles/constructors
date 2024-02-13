@@ -1,4 +1,4 @@
-function Television(power = false, currentChannel) {
+function Television(power, currentChannel) {
   this.power = power;
   this.currentChannel = currentChannel;
 }
